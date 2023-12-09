@@ -1,1 +1,1 @@
-# Laptopok-Feladat
+.net 8.0
