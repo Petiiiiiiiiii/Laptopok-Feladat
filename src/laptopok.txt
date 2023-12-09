@@ -1,0 +1,43 @@
+azonosító|processzor típusa és sebessége|operációs rendszer|gyártó és modell|akkumulátor élettartama|súly|vezeték nélküli kapcsolatok
+1|Intel Core i5 1135G7 2,4|Windows 10 Pro|Dell Latitude 9510|12,5|1,4|Wifi 6, Bluetooth 5.1
+2|AMD Ryzen 7 5800U 3,2|Windows 10 Pro|HP Elite Dragonfly|10|1|Wifi 6E, Bluetooth 5.0
+3|Intel Core i7 1185G7 3,0|Windows 11 Pro|Lenovo ThinkPad X1 Carbon Gen 9|14|1,13|Wifi 6, Bluetooth 5.2
+4|AMD Ryzen 5 Pro 4650U 2,1|macOS Big Sur|Microsoft Surface Laptop 4|15|1,3|Wifi 6E, Bluetooth 5.0
+5|Intel Core i7 1160G7 2,1|Linux Ubuntu 20.04|Dell Latitude 7420|12|1,2|Wifi 6, Bluetooth 5.1
+6|Intel Core i5 1145G7 2,6|Windows 10 Pro|Lenovo ThinkBook 14s Yoga|10,5|1,5|Wifi 6, Bluetooth 5.2
+7|AMD Ryzen 9 5900HS 3,3|Windows 11 Pro|HP EliteBook 840 G8|13|1,33|Wifi 6, Bluetooth 5.0
+8|Intel Core i7 11800H 2,3|macOS Monterey|Asus ROG Flow Z13|9|1,4|Wifi 6, Bluetooth 5.2
+9|AMD Ryzen 7 Pro 5850U 1,9|Windows 10 Pro|Dell Precision 5560|8,5|2|Wifi 6E, Bluetooth 5.2
+10|Intel Core i7 10810U 1,1|Linux Fedora 34|HP ProBook 635 Aero|11|1,13|Wifi 6E, Bluetooth 5.0
+11|AMD Ryzen 5 5600U 2,3|Windows 11 Pro|Lenovo ThinkPad T14s Gen 2|14|1,3|Wifi 6, Bluetooth 5.2
+12|Intel Core i5 10210U 1,6|Windows 10 Pro|Acer TravelMate P6|13|1,1|Wifi 6E, Bluetooth 5.2
+13|AMD Ryzen 7 4700U 2,0|Linux Ubuntu 20.04|Dell Latitude 5420 Rugged|10,5|2|Wifi 6E, Bluetooth 5.0
+14|Intel Core i7 10510U 1,8|Windows 10 Pro|Lenovo ThinkPad L14 Gen 2|12|1,7|Wifi 6E, Bluetooth 5.2
+15|AMD Ryzen 5 Pro 3500U 2,1|macOS Monterey|HP Elite Dragonfly Max|11|1|Wifi 6, Bluetooth 5.1
+16|Intel Core i5 10310U 1,7|Windows 11 Pro|Dell Latitude 3520|12|1,2|Wifi 6, Bluetooth 5.0
+17|AMD Ryzen 7 4700U 2,0|Linux Fedora 34|Lenovo ThinkPad E14 Gen 2|9|1,5|Wifi 6, Bluetooth 5.0
+18|Intel Core i7 1165G7 2,8|Windows 10 Pro|Acer Swift 3|10|1,2|Wifi 6, Bluetooth 5.0
+19|AMD Ryzen 5 Pro 4650U 2,1|macOS Big Sur|Dell Inspiron 14 5000|9|1,5|Wifi 6E, Bluetooth 5.2
+20|Intel Core i7 1165G7 2,8|Windows 11 Pro|HP Elite Dragonfly G2|10|1|Wifi 6E, Bluetooth 5.2
+21|AMD Ryzen 7 5700U 1,8|Linux Ubuntu 20.04|Asus ZenBook 14|10|1,2|Wifi 6, Bluetooth 5.0
+22|Intel Core i5 1135G7 2,4|Windows 10 Pro|Lenovo ThinkPad X13 Gen 2|11,5|1,28|Wifi 6E, Bluetooth 5.2
+23|AMD Ryzen 5 5500U 2,1|Windows 10 Pro|Dell Latitude 7320|11|1|Wifi 6E, Bluetooth 5.2
+24|Intel Core i7 10750H 2,6|Linux Fedora 34|Acer TravelMate Spin P4|11|1,5|Wifi 6E, Bluetooth 5.2
+25|AMD Ryzen 9 5900HX 3,3|Windows 11 Pro|Lenovo ThinkPad L14 Gen 2|10|1,5|Wifi 6E, Bluetooth 5.2
+26|Intel Core i9 11900H 2,5|macOS Monterey|Asus ROG Zephyrus G15|8|2,1|Wifi 6E, Bluetooth 5.2
+27|AMD Ryzen 7 5800H 3,2|Windows 10 Pro|Lenovo ThinkPad X1 Carbon Gen 9|7,5|1,13|Wifi 6E, Bluetooth 5.2
+28|Intel Core i7 11800H 2,3|Linux Ubuntu 20.04|Lenovo Legion Y740|8|1,5|Wifi 6E, Bluetooth 5.2
+29|AMD Ryzen 9 5900HX 3,3|Windows 11 Pro|Asus ROG Strix Scar 15|8|2,6|Wifi 6E, Bluetooth 5.2
+30|Intel Core i7 11800H 2,3|macOS Big Sur|Lenovo Legion 7|8|2,5|Wifi 6E, Bluetooth 5.2
+31|AMD Ryzen 9 5900HX 3,3|Linux Fedora 34|Alienware Area-51m R2|6|4,1|Wifi 6E, Bluetooth 5.2
+32|Intel Core i7 1185G7 3,0|Windows 10 Pro|Asus ROG Flow X13|8|1,3|Wifi 6E, Bluetooth 5.2
+33|AMD Ryzen 9 5980HS 3,3|Windows 10 Pro|Dell Latitude 7420 Rugged|9|1,9|Wifi 6, Bluetooth 5.1
+34|Intel Core i9 10980HK 2,4|macOS Monterey|Asus ROG Zephyrus Duo 15 SE|8|2,5|Wifi 6E, Bluetooth 5.2
+35|AMD Ryzen 9 5980HX 3,3|Windows 11 Pro|MSI GT76 Titan DT 10SGS|5|4,5|Wifi 6E, Bluetooth 5.2
+36|Intel Core i9 11900HK 2,9|Linux Ubuntu 20.04|Acer Predator Triton 500|8|2,1|Wifi 6E, Bluetooth 5.2
+37|AMD Ryzen 9 5900HX 3,3|Windows 11 Pro|Razer Blade 15 Advanced|7|2,1|Wifi 6E, Bluetooth 5.2
+38|Intel Core i7 10870H 2,2|macOS Big Sur|Asus ROG Zephyrus G14|7|2,5|Wifi 6E, Bluetooth 5.2
+39|AMD Ryzen 9 5900HS 3,3|Linux Ubuntu 20.04|Dell G5 15 SE|9|1,6|Wifi 6E, Bluetooth 5.2
+40|Intel Core i9 10980HK 2,4|Windows 11 Pro|Asus ROG Flow Z13|6|2,6|Wifi 6E, Bluetooth 5.2
+41|AMD Ryzen 9 5900HX 3,3|macOS Monterey|Alienware m17 R3|7|2,6|Wifi 6E, Bluetooth 5.2
+42|Intel Core i7 11800H 2,3|Linux Ubuntu 20.04|Lenovo Legion 5 Pro|6|2,5|Wifi 6E, Bluetooth 5.1
